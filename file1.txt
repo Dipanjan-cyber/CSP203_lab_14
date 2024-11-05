@@ -1,1 +1,2 @@
 Initial content for file1.txt from repo 1
+Editing the file from master branch
